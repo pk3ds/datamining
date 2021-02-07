@@ -3,7 +3,6 @@ altair==4.1.0
 apyori==1.1.2
 argh==0.26.2
 astor==0.8.1
-astroid @ file:///C:/ci/astroid_1592487315634/work
 astropy==4.0.2
 async-generator==1.10
 atomicwrites==1.4.0
