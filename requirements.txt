@@ -114,7 +114,7 @@ mock==4.0.2
 mpmath==1.1.0
 msgpack==1.0.0
 multipledispatch==0.6.0
-navigator-updater==0.2.1
+# navigator-updater==0.2.1
 # nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
 # nbconvert @ file:///C:/ci/nbconvert_1601914925608/work
 # nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
